@@ -19,7 +19,7 @@ The repository is structured to keep task-related files and datasets organized. 
 Getting Started
 To replicate the analyses or explore the code, follow these steps:
 
-Clone the repository: git clone https://github.com/your-username/meriskill-virtual-internship.git
+Clone the repository: git clone https://github.com/A-Bio-arch/meriskill-virtual-internship.git
 Navigate to the specific task folder.
 Open the Jupyter Notebook using a compatible environment.
 Install the required dependencies: pip install -r requirements.txt (if applicable).
